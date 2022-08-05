@@ -1,0 +1,34 @@
+Elixir of Armor
+3 Oil of Fortitude
+	3 Clown's Blood
+		3 Spirit's Leaf
+		3 Powder of Darkness
+		3 Clear Liquid Reagent
+			3 Salt
+			3 Sunrise Herb
+			3 Weeds
+			3 Purified Water
+			6 Blood 1
+	3 Monk's Branch
+	3 Fruit of Nature
+	3 Powder of Flame
+		
+
+3 Refined Delotia Reagent
+	9 Delotia Powder
+	3 Clear Liquid Reagent
+		3 Salt
+		3 Sunrise Herb
+		3 Weeds
+		3 Purified Water
+	
+	3 Pure Powder Reagent
+		3 Sugar
+		3 Silver Azalea
+		3 Weeds
+		3 Purified Water
+	
+	
+5 Thornwood Sap
+1 Thick Turo Blood
+	
