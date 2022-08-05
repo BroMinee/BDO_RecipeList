@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jules\\Documents\\GitHub Project\\BDO_alchemy_recipes\\BDO_alchemy_recipes_interface\\BDO_interface\\BDO_interface\\BDO_interface.csproj",
+      "projectUniqueName": "C:\\Users\\jules\\Documents\\GitHub Project\\1-BDO_RecipeList\\BDO_alchemy_recipes_interface\\BDO_interface\\BDO_interface\\BDO_interface.csproj",
       "projectName": "BDO_interface",
-      "projectPath": "C:\\Users\\jules\\Documents\\GitHub Project\\BDO_alchemy_recipes\\BDO_alchemy_recipes_interface\\BDO_interface\\BDO_interface\\BDO_interface.csproj",
+      "projectPath": "C:\\Users\\jules\\Documents\\GitHub Project\\1-BDO_RecipeList\\BDO_alchemy_recipes_interface\\BDO_interface\\BDO_interface\\BDO_interface.csproj",
       "packagesPath": "C:\\Users\\jules\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jules\\Documents\\GitHub Project\\BDO_alchemy_recipes\\BDO_alchemy_recipes_interface\\BDO_interface\\BDO_interface\\obj\\",
+      "outputPath": "C:\\Users\\jules\\Documents\\GitHub Project\\1-BDO_RecipeList\\BDO_alchemy_recipes_interface\\BDO_interface\\BDO_interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

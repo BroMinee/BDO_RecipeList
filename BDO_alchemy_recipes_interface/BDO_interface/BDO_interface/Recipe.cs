@@ -15,7 +15,7 @@ namespace BDO_interface
         public static void load_dictionary(string name)
         {
             dict = new Dictionary<string, List<(int, string)>>();
-            using (StreamReader sr = new StreamReader(@"C:\Users\jules\Documents\GitHub Project\BDO_alchemy_recipes\BDO_alchemy_recipes_interface\BDO_interface\BDO_interface\" + name + ".csv"))
+            using (StreamReader sr = new StreamReader(name + ".csv"))
             {
                 
                 string line = "";
